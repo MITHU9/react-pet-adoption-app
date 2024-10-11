@@ -234,7 +234,7 @@ const Card = ({ pets, loading }) => {
               <div className="flex flex-col items-center justify-center">
                 <img
                   className="size-32"
-                  src="../../public/images/10017692.png"
+                  src="/images/10017692.png"
                   alt="handShake"
                 />
                 <h2 className="text-3xl font-bold  text-gray-800">
